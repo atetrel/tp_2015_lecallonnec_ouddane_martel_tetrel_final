@@ -1,8 +1,7 @@
 TETREL Amaury
-OUDDANE Jean-Joseph
+OUDDANE Jean-Joseph(1)
 LE CALLONNEC Manfred
-MARTEL Cécile
-écrire dans un fichier
+MARTEL Cécileécrire dans un fichier
 tetrel_delete
 LE CALLONNEC Manfred - modification Manfred
 
