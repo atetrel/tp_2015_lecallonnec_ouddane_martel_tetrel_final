@@ -4,8 +4,7 @@ LE CALLONNEC Manfred
 MARTEL Cécile
 OUDDANE Jean-Joseph
 LE CALLONNEC Manfred
-MARTEL Cécile
-écrire dans un fichier
+MARTEL Cécileécrire dans un fichier
 tetrel_delete
 LE CALLONNEC Manfred - modification Manfred
 
@@ -13,3 +12,4 @@ yolo
 
 
 modif pour rebase manfred
+MODIFICATION REBASE JJ
